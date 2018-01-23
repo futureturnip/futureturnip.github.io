@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://futureturnip.github.io/posts/running-rabbit/</loc>
+    <lastmod>2018-01-23T11:13:19-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://futureturnip.github.io/posts/first-post/</loc>
     <lastmod>2018-01-10T14:59:16-05:00</lastmod>
   </url>
@@ -14,13 +19,13 @@
   
   <url>
     <loc>https://futureturnip.github.io/</loc>
-    <lastmod>2018-01-10T14:59:16-05:00</lastmod>
+    <lastmod>2018-01-23T11:13:19-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://futureturnip.github.io/posts/</loc>
-    <lastmod>2018-01-10T14:59:16-05:00</lastmod>
+    <lastmod>2018-01-23T11:13:19-05:00</lastmod>
     <priority>0</priority>
   </url>
   
