@@ -1,5 +1,9 @@
 {
   "assetsByChunkName": {
+    "path---this-is-a-sample-post": [
+      "path---this-is-a-sample-post-9325369ce429194f409c.js",
+      "path---this-is-a-sample-post-9325369ce429194f409c.js.map"
+    ],
     "component---src-pages-index-js": [
       "component---src-pages-index-js-c6c666fe0cfc9cea7468.js",
       "component---src-pages-index-js-c6c666fe0cfc9cea7468.js.map"
@@ -17,8 +21,8 @@
       "path---nullam-nec-leo-in-ipsum-sodales-6b81ed2df582d887e910.js.map"
     ],
     "path---index": [
-      "path---index-a4aea91303fa7611e3a9.js",
-      "path---index-a4aea91303fa7611e3a9.js.map"
+      "path---index-224e147fb8db83c26c78.js",
+      "path---index-224e147fb8db83c26c78.js.map"
     ],
     "path---duis-ac-metus-feugiat": [
       "path---duis-ac-metus-feugiat-6baf56841f59df980426.js",
@@ -45,9 +49,9 @@
       "component---src-templates-post-js-e06a437f9f3a07a912db.js.map"
     ],
     "app": [
-      "app-9622ce4e71a44915c9ad.js",
+      "app-973521d3dd06c561f554.js",
       "build-js-styles.css",
-      "app-9622ce4e71a44915c9ad.js.map",
+      "app-973521d3dd06c561f554.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
