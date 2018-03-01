@@ -1,28 +1,24 @@
 {
   "assetsByChunkName": {
-    "path---this-is-a-sample-post": [
-      "path---this-is-a-sample-post-9325369ce429194f409c.js",
-      "path---this-is-a-sample-post-9325369ce429194f409c.js.map"
-    ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-c6c666fe0cfc9cea7468.js",
-      "component---src-pages-index-js-c6c666fe0cfc9cea7468.js.map"
+      "component---src-pages-index-js-aca27cf2ee673d36e522.js",
+      "component---src-pages-index-js-aca27cf2ee673d36e522.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-f908228e9771dff2a759.js",
-      "component---src-layouts-index-js-f908228e9771dff2a759.js.map"
+      "component---src-layouts-index-js-9bec6a096cf1f5b6442b.js",
+      "component---src-layouts-index-js-9bec6a096cf1f5b6442b.js.map"
     ],
     "path---nullam-nec-leo-in-ipsum-sodales": [
       "path---nullam-nec-leo-in-ipsum-sodales-6b81ed2df582d887e910.js",
       "path---nullam-nec-leo-in-ipsum-sodales-6b81ed2df582d887e910.js.map"
     ],
     "path---index": [
-      "path---index-224e147fb8db83c26c78.js",
-      "path---index-224e147fb8db83c26c78.js.map"
+      "path---index-676e4f9b6022e73f9919.js",
+      "path---index-676e4f9b6022e73f9919.js.map"
     ],
     "path---duis-ac-metus-feugiat": [
       "path---duis-ac-metus-feugiat-6baf56841f59df980426.js",
@@ -49,9 +45,9 @@
       "component---src-templates-post-js-e06a437f9f3a07a912db.js.map"
     ],
     "app": [
-      "app-973521d3dd06c561f554.js",
+      "app-44fbbd66d5ad145961b3.js",
       "build-js-styles.css",
-      "app-973521d3dd06c561f554.js.map",
+      "app-44fbbd66d5ad145961b3.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [

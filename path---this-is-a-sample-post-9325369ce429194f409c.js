@@ -1,2 +1,2 @@
-webpackJsonp([28915287169136],{461:function(t,a){t.exports={data:{markdownRemark:{html:"<p>Testing, testing, test...</p>",frontmatter:{date:"February 26, 2018",path:"/this-is-a-sample-post",title:"This is a sample post"}}},pathContext:{}}}});
+webpackJsonp([28915287169136],{457:function(t,a){t.exports={data:{markdownRemark:{html:"<p>Testing, testing, test...</p>",frontmatter:{date:"February 26, 2018",path:"/this-is-a-sample-post",title:"This is a sample post"}}},pathContext:{}}}});
 //# sourceMappingURL=path---this-is-a-sample-post-9325369ce429194f409c.js.map
