@@ -9,8 +9,8 @@
       "path----557518bd178906f8d58a.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-9bec6a096cf1f5b6442b.js",
-      "component---src-layouts-index-js-9bec6a096cf1f5b6442b.js.map"
+      "component---src-layouts-index-js-48f7c1e375e3bc85ed5a.js",
+      "component---src-layouts-index-js-48f7c1e375e3bc85ed5a.js.map"
     ],
     "path---nullam-nec-leo-in-ipsum-sodales": [
       "path---nullam-nec-leo-in-ipsum-sodales-6b81ed2df582d887e910.js",
@@ -41,18 +41,26 @@
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-templates-post-js": [
-      "component---src-templates-post-js-e06a437f9f3a07a912db.js",
-      "component---src-templates-post-js-e06a437f9f3a07a912db.js.map"
+      "component---src-templates-post-js-3430ab5fe803b9d2e412.js",
+      "component---src-templates-post-js-3430ab5fe803b9d2e412.js.map"
     ],
     "app": [
-      "app-ad8d8be700e0152fd329.js",
+      "app-fe650c61cf5bdec5b6ff.js",
       "build-js-styles.css",
-      "app-ad8d8be700e0152fd329.js.map",
+      "app-fe650c61cf5bdec5b6ff.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
       "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-about-js": [
+      "component---src-pages-about-js-df7e36fc4b30862228c4.js",
+      "component---src-pages-about-js-df7e36fc4b30862228c4.js.map"
+    ],
+    "path---about": [
+      "path---about-a0e39f21c11f6a62c5ab.js",
+      "path---about-a0e39f21c11f6a62c5ab.js.map"
     ]
   }
 }
